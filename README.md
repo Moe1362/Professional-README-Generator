@@ -1,10 +1,10 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-##Introduction
+# Introduction
 
 This project aims to simplify the process of creating README files for various projects. It utilizes Node.js modules and interactive prompts to gather project information and generate a structured README file.
 
-##Setup
+# Setup
 
 Before running the application, ensure that Node.js is installed on your system. Follow these steps to set up the project:
 
@@ -12,7 +12,7 @@ Before running the application, ensure that Node.js is installed on your system.
 .Navigate to the project directory using the command line.
 .Install dependencies by running npm install.
 
-##Usage
+# Usage
 
 To generate a README file for your project, follow these steps:
 
@@ -22,17 +22,18 @@ To generate a README file for your project, follow these steps:
 
 ![ReadMe Generator](./Develop/imagees/readme.png)
 
-##Contribution Guidelines
+# Contribution Guidelines
 
 Contributions to this project are welcome. If you would like to contribute, please adhere to the following guidelines:
 
-##Contact Information
+# Contact Information
 
 If you have any questions, feedback, or suggestions regarding this project, feel free to contact:
 
 Email: [moe.abbasi1983@gmail.com]
 GitHub: moe1362
-License
+
+# License
 This project is licensed under the MIT. See the LICENSE file for more details.
 
 
