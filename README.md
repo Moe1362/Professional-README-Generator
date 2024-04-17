@@ -8,23 +8,19 @@ This project aims to simplify the process of creating README files for various p
 
 Before running the application, ensure that Node.js is installed on your system. Follow these steps to set up the project:
 
-.Clone the repository to your local machine.
-.Navigate to the project directory using the command line.
-.Install dependencies by running npm install.
+1-Clone the repository to your local machine.
+2-Navigate to the project directory using the command line.
+3-Install dependencies by running npm install.
 
 # Usage
 
 To generate a README file for your project, follow these steps:
 
-.Run the application using the command: node index.js.
-.You will be prompted to provide details about your project, such as title, description, installation steps, usage instructions, etc.
-.Once you have provided all the necessary information, a README file (README.md) will be generated in the project directory.
+1-Run the application using the command: node index.js.
+2-You will be prompted to provide details about your project, such as title, description, installation steps, usage instructions, etc.
+3-Once you have provided all the necessary information, a README file (README.md) will be generated in the project directory.
 
 ![ReadMe Generator](./Develop/imagees/readme.png)
-
-# Contribution Guidelines
-
-Contributions to this project are welcome. If you would like to contribute, please adhere to the following guidelines:
 
 # Contact Information
 
