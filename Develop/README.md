@@ -1,9 +1,9 @@
 
-    # ReadME generator
+    # Soccer
 
     ## Description
 
-    this app create readMe like pro 
+    Soccer is the best
 
 
     ## Table of Contents
@@ -17,11 +17,11 @@
     
     ## Installation
 
-    Just copy the git SSH or URL and use git clone to copy to your local machin then use code editor to open the app
+    Git clone command from github
 
     ## Usage
 
-    Just answer all question and automaticaly create the README file   like Proffessional	
+    just answer the questions
 
     ## License
 
@@ -36,5 +36,5 @@
     
 
     ## Questions
-    If you have any questions, please contact me at moe.abbasi1983@gmail.com
+    If you have any questions, please contact me at mo@gmail.com
     You can also find me on GitHub at [moe1362]
