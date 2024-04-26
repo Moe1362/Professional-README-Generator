@@ -9,7 +9,9 @@ This project aims to simplify the process of creating README files for various p
 Before running the application, ensure that Node.js is installed on your system. Follow these steps to set up the project:
 
 1-Clone the repository to your local machine.
+
 2-Navigate to the project directory using the command line.
+
 3-Install dependencies by running npm install.
 
 # Usage
