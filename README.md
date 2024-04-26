@@ -19,7 +19,9 @@ Before running the application, ensure that Node.js is installed on your system.
 To generate a README file for your project, follow these steps:
 
 1-Run the application using the command: node index.js.
+
 2-You will be prompted to provide details about your project, such as title, description, installation steps, usage instructions, etc.
+
 3-Once you have provided all the necessary information, a README file (README.md) will be generated in the project directory.
 
 ![ReadMe Generator](./Develop/imagees/readme.png)
@@ -32,6 +34,7 @@ Video Link: https://drive.google.com/file/d/1AX7b5-Tazb9fYOOWp3q4x8fYlEgMNj0r/vi
 If you have any questions, feedback, or suggestions regarding this project, feel free to contact:
 
 Email: [moe.abbasi1983@gmail.com]
+
 GitHub: moe1362
 
 # License
